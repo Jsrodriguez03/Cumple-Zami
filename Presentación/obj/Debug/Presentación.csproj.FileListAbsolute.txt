@@ -1,0 +1,13 @@
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\bin\Debug\Presentación.exe.config
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\bin\Debug\Presentación.exe
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\bin\Debug\Presentación.pdb
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.csproj.SuggestedBindingRedirects.cache
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.exe
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.pdb
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.Carta.resources
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.Entrada.resources
+D:\Biblioteca\Documents\Visual Studio Projects\ZAMIRI\Presentación\obj\Debug\Presentación.Final.resources
